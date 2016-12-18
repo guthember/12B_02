@@ -1,0 +1,6 @@
+c:\users\erik\documents\visual studio 2015\Projects\KorMetodus\KorMetodus\bin\Debug\KorMetodus.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\KorMetodus\KorMetodus\bin\Debug\KorMetodus.exe
+c:\users\erik\documents\visual studio 2015\Projects\KorMetodus\KorMetodus\bin\Debug\KorMetodus.pdb
+c:\users\erik\documents\visual studio 2015\Projects\KorMetodus\KorMetodus\obj\Debug\KorMetodus.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2015\Projects\KorMetodus\KorMetodus\obj\Debug\KorMetodus.exe
+c:\users\erik\documents\visual studio 2015\Projects\KorMetodus\KorMetodus\obj\Debug\KorMetodus.pdb
